@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://myloserdova.github.io/mimino-bl-11",
+  "homepage": "https://addaviktory.github.io/mimino-bl-11",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /mimino-bl-11/"
